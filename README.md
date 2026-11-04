@@ -2,4 +2,4 @@
 
 这是智能体的测试仓库。
 
-欢迎语：Hello teh world!
+欢迎语：Hello the world!
